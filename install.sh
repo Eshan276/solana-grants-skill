@@ -8,7 +8,7 @@ TARGET_DIR="${1:-.}"
 
 if [ ! -d "$SKILL_DIR" ]; then
   echo "Cloning solana-grants-skill..."
-  git clone https://github.com/YOUR_HANDLE/solana-grants-skill.git
+  git clone https://github.com/Eshan276/solana-grants-skill.git
   SKILL_DIR="$(pwd)/solana-grants-skill"
 fi
 

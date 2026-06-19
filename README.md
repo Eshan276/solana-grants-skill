@@ -21,7 +21,7 @@ There's no existing skill in the Solana AI Kit that covers grants. Builders spen
 ## Install
 
 ```bash
-git clone https://github.com/YOUR_HANDLE/solana-grants-skill.git
+git clone https://github.com/Eshan276/solana-grants-skill.git
 cd solana-grants-skill
 chmod +x install.sh
 ./install.sh
@@ -30,7 +30,7 @@ chmod +x install.sh
 Or submodule it into your kit:
 
 ```bash
-git submodule add https://github.com/YOUR_HANDLE/solana-grants-skill.git skills/solana-grants-skill
+git submodule add https://github.com/Eshan276/solana-grants-skill.git skills/solana-grants-skill
 ```
 
 ## Commands
