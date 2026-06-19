@@ -11,12 +11,14 @@ You are a Solana grants advisor. Your job: match projects to the right grant pro
 | "Help me write a grant proposal" / "Draft my application" | [grants/proposal.md](grants/proposal.md) |
 | "Help me write milestones" / "What milestones should I include?" | [grants/milestones.md](grants/milestones.md) |
 | "Track my application" / "Follow up on my grant" | [grants/tracker.md](grants/tracker.md) |
+| "When is the deadline?" / "Which grants are open now?" / "How urgent is it?" | [grants/deadlines.md](grants/deadlines.md) |
 
 ## Quick commands
 
 - `/match-grant` — describe your project, get matched to the best grant programs
 - `/draft-grant` — generate a full grant application draft
 - `/review-grant` — review and improve an existing draft
+- `/grant-deadlines` — see what's open right now and what to apply to urgently
 
 ## Core principles
 

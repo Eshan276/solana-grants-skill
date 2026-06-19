@@ -40,6 +40,7 @@ git submodule add https://github.com/Eshan276/solana-grants-skill.git skills/sol
 | `/match-grant` | Describe your project, get matched to the 1–2 best grant programs |
 | `/draft-grant` | Generate a complete grant application draft |
 | `/review-grant` | Paste an existing draft, get it improved |
+| `/grant-deadlines` | See what's open right now and what to apply to urgently |
 
 ## Skill files (progressive loading)
 
@@ -51,7 +52,8 @@ skill/
     ├── matcher.md        ← project-to-program matching logic
     ├── proposal.md       ← full proposal writing guide (all sections)
     ├── milestones.md     ← milestone templates by project type
-    └── tracker.md        ← status tracking + follow-up email templates
+    ├── tracker.md        ← status tracking + follow-up email templates
+    └── deadlines.md      ← live cycle info, urgency guide, timing tips
 
 agents/
 └── grants-advisor.md     ← specialized agent
